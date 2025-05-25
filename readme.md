@@ -1,6 +1,3 @@
-Sure! Here is the entire README content as a **single markdown file**—all together, neatly formatted:
-
-````markdown
 # Console Bank
 
 A simple command-line banking system implemented in Python. This project allows customers to create accounts, log in, check balances, deposit and withdraw money, and enables an admin to manage customer accounts.
@@ -152,7 +149,4 @@ This project is for educational purposes and does not include a formal license.
 
 *Enjoy managing your simple console bank!*
 
-```
-
-You can just copy-paste this as your `README.md` file in your repo!
 ```
